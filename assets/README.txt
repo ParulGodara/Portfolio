@@ -1,0 +1,1 @@
+Portfolio media assets are added through the GitHub repository.
